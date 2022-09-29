@@ -13,3 +13,5 @@ Se prensenta en el Dashboard:
 
 Los valores los importe de la API FTX en el archivo app.py, y los visualice con la librería streamlit. 
 El archivo Data.ipynb es auxiliar en el cual hice pruebas de los dataframes correspondientes. 
+
+Link del Dashboard : https://justocosta-pi3-streamlit-ftx-app-5okeuo.streamlitapp.com/
